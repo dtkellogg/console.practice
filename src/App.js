@@ -20,12 +20,12 @@ function App() {
   // console.table(person)
 
   // #5 - Start a timer
-  // console.time()
+  console.time("Loop")
   // #6 - Log time since timer started
-  // console.timeLog()
-  // console.timeLog()
+  console.timeLog("Loop")
+  console.timeLog("Loop")
   // #7 - End timer and log total time
-  // console.timeEnd()
+  console.timeEnd("Loop")
 
   // #8 - Only log if condition fails
   // console.assert(person.pets.find((p) => p === 'Bob'), 'Person does not have a pet named Bob')
